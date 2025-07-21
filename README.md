@@ -12,9 +12,9 @@ A customizable and responsive password generator built using **React**, **JavaSc
 
 ## 📸 Screenshots
 
-![Screenshot 1](./screenshots/screenshot140.png)
-![Screenshot 2](./screenshots/screenshot141.png)
-![Screenshot 3](./screenshots/screenshot142.png)
+![Screenshot 1](https://github.com/ShivamThakur121/Password-Generator/blob/bde5b39ee1375dd0790c946996343a51945fff8b/Screenshot%20(140).png)
+![Screenshot 2](https://github.com/ShivamThakur121/Password-Generator/blob/bde5b39ee1375dd0790c946996343a51945fff8b/Screenshot%20(141).png)
+![Screenshot 3](https://github.com/ShivamThakur121/Password-Generator/blob/bde5b39ee1375dd0790c946996343a51945fff8b/Screenshot%20(142).png)
 
 ## 🛠️ Tech Stack
 
